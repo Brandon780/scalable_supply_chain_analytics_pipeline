@@ -13,4 +13,4 @@ This project builds an end-to-end data pipeline for retail supply chain analytic
 - Power BI ready dataset
 
 ## Insights
-![insights](images/insights.png)
+![insights](insights.png)
