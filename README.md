@@ -17,7 +17,7 @@ This project builds an end-to-end data pipeline for retail supply chain analytic
 
 
 
- cuando los datos no dicen nada…
+ ### cuando los datos no dicen nada…
 Todo empezó con algo bastante común, muchos datos, pero poca claridad.
 Ventas por un lado, inventario por otro, movimientos por otro… todo existía, pero no estaba conectado.
 
@@ -37,7 +37,7 @@ Aquí fue clave organizar todo en capas (tipo Bronze → Silver → Gold), no po
 
 Fue como pasar de tener piezas sueltas… a empezar a ver el rompecabezas.
 
-⚙️ Proceso, conectar todo (de verdad)
+⚙️ ### Proceso, conectar todo (de verdad)
 La parte más interesante fue unir tres mundos que normalmente viven separados:
 
 📦 Inventario (lo que tienes)
@@ -61,7 +61,7 @@ se mueve stock pero no impacta ventas
 
 Ahí es donde los datos dejan de ser números… y empiezan a contar historias.
 
-📊 Resultados: de datos a decisiones
+📊 ### Resultados: de datos a decisiones
 Con todo estructurado, el dashboard cobra sentido.
 
 Se pueden ver cosas como:
@@ -82,10 +82,10 @@ Esto permite responder preguntas reales del negocio, como:
 
 ¿Qué productos necesitan mejor reposición?
 
-💭 Cierre: lo que realmente importa
+💭 #### Cierre lo que realmente importa
 Este proyecto no trata de DuckDB, ni de Power BI, ni de scripts…
 
-Trata de esto:
+Trata de esto,
 👉 hacer que los datos sirvan para tomar decisiones reales
 
 La mayor lección fue entender que:
