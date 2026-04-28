@@ -19,7 +19,7 @@ This project builds an end-to-end data pipeline for retail supply chain analytic
 
 ### Cuando los datos no dicen nada…
 
-Todo empezó con algo bastante común, muchos datos, pero poca claridad. Ventas por un lado, inventario por otro y movimientos separados, todos existían pero no estaban conectados. El problema real no era la falta de información, sino la falta de contexto para tomar decisiones. La idea de este proyecto fue precisamente esa, convertir datos dispersos en una visión clara del negocio, organizando todo en una arquitectura tipo Medallion (Bronze → Silver → Gold) para asegurar estructura, consistencia y confianza en los datos desde su origen.
+Todo empezó con algo bastante común, muchos datos, pero poca claridad. Ventas por un lado, inventario por otro y movimientos separados, todos existían pero no estaban conectados. El problema real no era la falta de información, sino la falta de contexto para tomar decisiones. La idea de este proyecto fue precisamente esa, convertir datos dispersos en una visión clara del negocio, organizando todo en una arquitectura tipo Medallion (Bronze → Silver → Gold) para asegurar estructura
 
  ### ⚙️ Conectar todo para entender el negocio
 
